@@ -1,0 +1,10 @@
+{
+    "id": "com.muffintime.distancecircles",
+    "name": "Distance Circles",
+    "description": "A simple mod that displays catchment radii around stations to assist with network planning.",
+    "version": "0.2.0",
+    "author": {
+        "name": "muffintime"
+    },
+    "main": "main.js"
+}
